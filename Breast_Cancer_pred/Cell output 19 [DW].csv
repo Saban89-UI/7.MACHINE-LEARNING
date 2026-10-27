@@ -1,0 +1,11 @@
+Age,Gender,BMI,Family_History,Smoking,Alcohol_Consumption,Physical_Activity,Hormone_Therapy,Menopause_Status,Genetic_Mutation,Tumor_Size_cm,Lymph_Node_Involvement,Mammogram_Result,Biopsy_Result,Cancer_Stage,Cancer,Blood_Pressure,Cholesterol,Diabetes,Exercise_Days_Per_Week,Breastfeeding_History,Annual_Income_USD
+83,Female,,No,No,,,,Post,Negative,,No,Normal,Benign,No Cancer,0,148,278,No,4,No,22139
+70,Female,,Yes,Yes,,,,Pre,Negative,,No,Suspicious,Malignant,Stage IV,1,149,140,No,1,No,43786
+40,Female,,No,Yes,,,,Pre,Negative,,Yes,Normal,Benign,No Cancer,0,104,255,No,6,No,22224
+37,Female,,No,No,,,,Post,Negative,,No,Suspicious,Benign,No Cancer,0,151,218,No,3,No,54630
+28,Female,,No,Yes,,,,Post,Negative,,No,Normal,Benign,No Cancer,0,144,143,No,5,Yes,49594
+54,Female,,No,No,,,,Post,Negative,,Yes,Normal,Benign,No Cancer,0,103,257,No,5,No,87042
+53,Female,,Yes,Yes,,,,Post,Negative,,No,Abnormal,Malignant,Stage III,1,174,142,No,3,Not Applicable,95460
+81,Female,,Yes,No,,,,Post,Negative,,No,Normal,Benign,No Cancer,0,113,217,No,2,Yes,34622
+84,Female,,Yes,No,,,,Post,Negative,,No,Normal,Malignant,Stage I,1,130,170,No,0,Yes,120567
+70,Female,,Yes,No,,,,Pre,Negative,,No,Normal,Benign,No Cancer,0,97,192,No,1,No,67347
